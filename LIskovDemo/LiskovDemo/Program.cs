@@ -1,6 +1,4 @@
 ﻿using System;
-using Before = LiskovDemo.Before;
-using After = LiskovDemo.After;
 
 namespace LiskovDemo
 {

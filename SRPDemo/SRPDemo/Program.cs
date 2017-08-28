@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Before = SRPDemo.Before;
-using After = SRPDemo.After;
 
 namespace SRPDemo
 {
@@ -41,7 +35,6 @@ namespace SRPDemo
             Console.ReadLine();
 
             Console.WriteLine();
-
 
         }
     }

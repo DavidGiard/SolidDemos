@@ -17,12 +17,12 @@ namespace DependencyInversionDemo.Before
             }
             else if (logType == "FILE")
             {
-                var logger = new EventLogLogger();
+                var logger = new FileLogger();
                 logger.LogEvent(message, category);
             }
             else if (logType == "FAKE")
             {
-                var logger = new EventLogLogger();
+                var logger = new FakeLogger();
                 logger.LogEvent(message, category);
             }
             else

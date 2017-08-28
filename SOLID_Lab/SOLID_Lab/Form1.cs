@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SOLID_Lab
@@ -38,7 +32,7 @@ namespace SOLID_Lab
 
         private void SaveDataButton_Click(object sender, EventArgs e)
         {
-
+            Photo.SavePhotoData(this.FirstNameTextbox.Text, this.LastNameTextbox.Text);
         }
 
         private void MakeCopyButton_Click(object sender, EventArgs e)
