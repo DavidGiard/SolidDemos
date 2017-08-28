@@ -1,0 +1,9 @@
+Single Responsibility Principle
+Photo.cs does too much. Split into 3 classes
+
+Interface Segregation Principle
+Create an interface for IPhotoData, IPhotoFileManagement, IPhotoAnalysis
+
+Dependency Inversion Principle
+Inject objects to call data access and Photo Analysis
+

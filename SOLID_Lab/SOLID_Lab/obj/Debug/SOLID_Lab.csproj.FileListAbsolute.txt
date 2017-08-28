@@ -1,0 +1,11 @@
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\bin\Debug\SOLID_Lab.exe.config
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\bin\Debug\SOLID_Lab.exe
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\bin\Debug\SOLID_Lab.pdb
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\obj\Debug\SOLID_Lab.csprojResolveAssemblyReference.cache
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\obj\Debug\SOLID_Lab.Form1.resources
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\obj\Debug\SOLID_Lab.Properties.Resources.resources
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\obj\Debug\SOLID_Lab.csproj.GenerateResource.Cache
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\obj\Debug\SOLID_Lab.exe
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\obj\Debug\SOLID_Lab.pdb
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\bin\Debug\Newtonsoft.Json.dll
+C:\development\SOLID\SOLID_Lab\SOLID_Lab\bin\Debug\Newtonsoft.Json.xml
